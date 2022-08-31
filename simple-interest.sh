@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Proxy0_
+   # Proxy08
 
    # Input:
    # p, principal amount
